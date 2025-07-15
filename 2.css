@@ -1,15 +1,21 @@
-#date296{border-style: solid; font-size: xx-large;}
+#date296{border-style: solid; border-color: #2ecc71;}
 
-#date47{border-style: solid; font-size: xx-large;}
+#date47{border-style: solid; border-color: #2ecc71;}
 
-#date57{border-style: solid; font-size: xx-large;}
+#date57{border-style: solid; border-color: #2ecc71;}
 
-#date67{border-style: solid; font-size: xx-large;}
+#date67{border-style: solid; border-color: #2ecc71;}
 
-#date117{border-style: solid; font-size: xx-large;}
+#date117{border-style: solid; border-color: #2ecc71;}
 
-ol{color: blue;}
+#date127{border-style: solid; border-color: #2ecc71;}
 
-h2{color: red;}
+#date137{border-style: solid; border-color: #2ecc71;}
 
-#body{background-color: lightgray;}
+ol{color: #34495e;}
+
+h1{color: #2ecc71;}
+
+h2{color: #27ae60;}
+
+#body{background-color: #e8f6ef;}

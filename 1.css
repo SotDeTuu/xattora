@@ -1,17 +1,22 @@
-#bd{background-color: rgb(255, 232, 190); border-style: solid; border-radius: 50px; border-color: rgb(1, 37, 165); border-width: 20px;}
-#head{color: navy;}
-#main{color: red;}
+#bd{background-color: #f9f9f9;
+ border-style: solid; border-radius: 30px; border-color: #2ecc71; border-width: 10px;}
+#head{color: #27ae60; text-decoration: solid; }
+#main{color: #333333;}
 
-#hw2{background-color: rgb(255, 232, 190);
-border-style: solid; border-radius: 50px; border-color: rgb(1, 37, 165); border-width: 20px;}
-#head2{color: navy;}
-#p2{color: red;}
+#hw2{background-color: #f9f9f9;
+ border-style: solid; border-radius: 30px; border-color: #27ae60; border-width: 10px;}
+#head2{color: #229954; text-decoration: solid; }
+#p2{color: #333333;}
 
-#hw3{background-color: rgb(255, 232, 190);
-border-style: solid; border-radius: 50px; border-color: rgb(1, 37, 165); border-width: 20px;}
-#head3{color: navy;}
-#p3{color: red;}
+#hw3{background-color: #f9f9f9;
+ border-style: solid; border-radius: 30px; border-color: #27ae60; border-width: 10px;}
+#head3{color: #229954; text-decoration: solid; }
+#p3{color: #333333;}
 
+#hw4{background-color: #f9f9f9;
+ border-style: solid; border-radius: 30px; border-color: #27ae60; border-width: 10px;}
 
+#head4{color: #229954; text-decoration: solid; }
 
+#p4{color: #333333;}
 
